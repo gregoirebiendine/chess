@@ -1,0 +1,82 @@
+<svg id="board" xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <g id="Groupe_1" data-name="Groupe 1">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="128" height="128" transform="translate(128)" fill="#739552"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="128" height="128" transform="translate(384)" fill="#739552"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="128" height="128" transform="translate(640)" fill="#739552"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="128" height="128" transform="translate(896)" fill="#739552"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="128" height="128" fill="#ebecd0"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="128" height="128" transform="translate(256)" fill="#ebecd0"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="128" height="128" transform="translate(512)" fill="#ebecd0"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="128" height="128" transform="translate(768)" fill="#ebecd0"/>
+  </g>
+  <g id="Groupe_2" data-name="Groupe 2" transform="translate(0 128)">
+    <rect id="Rectangle_2-2" data-name="Rectangle 2" width="128" height="128" transform="translate(768)" fill="#739552"/>
+    <rect id="Rectangle_4-2" data-name="Rectangle 4" width="128" height="128" transform="translate(512)" fill="#739552"/>
+    <rect id="Rectangle_6-2" data-name="Rectangle 6" width="128" height="128" transform="translate(256)" fill="#739552"/>
+    <rect id="Rectangle_8-2" data-name="Rectangle 8" width="128" height="128" fill="#739552"/>
+    <rect id="Rectangle_3-2" data-name="Rectangle 3" width="128" height="128" transform="translate(896)" fill="#ebecd0"/>
+    <rect id="Rectangle_5-2" data-name="Rectangle 5" width="128" height="128" transform="translate(640)" fill="#ebecd0"/>
+    <rect id="Rectangle_7-2" data-name="Rectangle 7" width="128" height="128" transform="translate(384)" fill="#ebecd0"/>
+    <rect id="Rectangle_9-2" data-name="Rectangle 9" width="128" height="128" transform="translate(128)" fill="#ebecd0"/>
+  </g>
+  <g id="Groupe_3" data-name="Groupe 3" transform="translate(0 256)">
+    <rect id="Rectangle_2-3" data-name="Rectangle 2" width="128" height="128" transform="translate(128)" fill="#739552"/>
+    <rect id="Rectangle_4-3" data-name="Rectangle 4" width="128" height="128" transform="translate(384)" fill="#739552"/>
+    <rect id="Rectangle_6-3" data-name="Rectangle 6" width="128" height="128" transform="translate(640)" fill="#739552"/>
+    <rect id="Rectangle_8-3" data-name="Rectangle 8" width="128" height="128" transform="translate(896)" fill="#739552"/>
+    <rect id="Rectangle_3-3" data-name="Rectangle 3" width="128" height="128" fill="#ebecd0"/>
+    <rect id="Rectangle_5-3" data-name="Rectangle 5" width="128" height="128" transform="translate(256)" fill="#ebecd0"/>
+    <rect id="Rectangle_7-3" data-name="Rectangle 7" width="128" height="128" transform="translate(512)" fill="#ebecd0"/>
+    <rect id="Rectangle_9-3" data-name="Rectangle 9" width="128" height="128" transform="translate(768)" fill="#ebecd0"/>
+  </g>
+  <g id="Groupe_4" data-name="Groupe 4" transform="translate(0 384)">
+    <rect id="Rectangle_2-4" data-name="Rectangle 2" width="128" height="128" transform="translate(768)" fill="#739552"/>
+    <rect id="Rectangle_4-4" data-name="Rectangle 4" width="128" height="128" transform="translate(512)" fill="#739552"/>
+    <rect id="Rectangle_6-4" data-name="Rectangle 6" width="128" height="128" transform="translate(256)" fill="#739552"/>
+    <rect id="Rectangle_8-4" data-name="Rectangle 8" width="128" height="128" fill="#739552"/>
+    <rect id="Rectangle_3-4" data-name="Rectangle 3" width="128" height="128" transform="translate(896)" fill="#ebecd0"/>
+    <rect id="Rectangle_5-4" data-name="Rectangle 5" width="128" height="128" transform="translate(640)" fill="#ebecd0"/>
+    <rect id="Rectangle_7-4" data-name="Rectangle 7" width="128" height="128" transform="translate(384)" fill="#ebecd0"/>
+    <rect id="Rectangle_9-4" data-name="Rectangle 9" width="128" height="128" transform="translate(128)" fill="#ebecd0"/>
+  </g>
+  <g id="Groupe_5" data-name="Groupe 5" transform="translate(0 512)">
+    <rect id="Rectangle_2-5" data-name="Rectangle 2" width="128" height="128" transform="translate(128)" fill="#739552"/>
+    <rect id="Rectangle_4-5" data-name="Rectangle 4" width="128" height="128" transform="translate(384)" fill="#739552"/>
+    <rect id="Rectangle_6-5" data-name="Rectangle 6" width="128" height="128" transform="translate(640)" fill="#739552"/>
+    <rect id="Rectangle_8-5" data-name="Rectangle 8" width="128" height="128" transform="translate(896)" fill="#739552"/>
+    <rect id="Rectangle_3-5" data-name="Rectangle 3" width="128" height="128" fill="#ebecd0"/>
+    <rect id="Rectangle_5-5" data-name="Rectangle 5" width="128" height="128" transform="translate(256)" fill="#ebecd0"/>
+    <rect id="Rectangle_7-5" data-name="Rectangle 7" width="128" height="128" transform="translate(512)" fill="#ebecd0"/>
+    <rect id="Rectangle_9-5" data-name="Rectangle 9" width="128" height="128" transform="translate(768)" fill="#ebecd0"/>
+  </g>
+  <g id="Groupe_6" data-name="Groupe 6" transform="translate(0 640)">
+    <rect id="Rectangle_2-6" data-name="Rectangle 2" width="128" height="128" transform="translate(768)" fill="#739552"/>
+    <rect id="Rectangle_4-6" data-name="Rectangle 4" width="128" height="128" transform="translate(512)" fill="#739552"/>
+    <rect id="Rectangle_6-6" data-name="Rectangle 6" width="128" height="128" transform="translate(256)" fill="#739552"/>
+    <rect id="Rectangle_8-6" data-name="Rectangle 8" width="128" height="128" fill="#739552"/>
+    <rect id="Rectangle_3-6" data-name="Rectangle 3" width="128" height="128" transform="translate(896)" fill="#ebecd0"/>
+    <rect id="Rectangle_5-6" data-name="Rectangle 5" width="128" height="128" transform="translate(640)" fill="#ebecd0"/>
+    <rect id="Rectangle_7-6" data-name="Rectangle 7" width="128" height="128" transform="translate(384)" fill="#ebecd0"/>
+    <rect id="Rectangle_9-6" data-name="Rectangle 9" width="128" height="128" transform="translate(128)" fill="#ebecd0"/>
+  </g>
+  <g id="Groupe_7" data-name="Groupe 7" transform="translate(0 768)">
+    <rect id="Rectangle_2-7" data-name="Rectangle 2" width="128" height="128" transform="translate(128)" fill="#739552"/>
+    <rect id="Rectangle_4-7" data-name="Rectangle 4" width="128" height="128" transform="translate(384)" fill="#739552"/>
+    <rect id="Rectangle_6-7" data-name="Rectangle 6" width="128" height="128" transform="translate(640)" fill="#739552"/>
+    <rect id="Rectangle_8-7" data-name="Rectangle 8" width="128" height="128" transform="translate(896)" fill="#739552"/>
+    <rect id="Rectangle_3-7" data-name="Rectangle 3" width="128" height="128" fill="#ebecd0"/>
+    <rect id="Rectangle_5-7" data-name="Rectangle 5" width="128" height="128" transform="translate(256)" fill="#ebecd0"/>
+    <rect id="Rectangle_7-7" data-name="Rectangle 7" width="128" height="128" transform="translate(512)" fill="#ebecd0"/>
+    <rect id="Rectangle_9-7" data-name="Rectangle 9" width="128" height="128" transform="translate(768)" fill="#ebecd0"/>
+  </g>
+  <g id="Groupe_8" data-name="Groupe 8" transform="translate(0 896)">
+    <rect id="Rectangle_2-8" data-name="Rectangle 2" width="128" height="128" transform="translate(768)" fill="#739552"/>
+    <rect id="Rectangle_4-8" data-name="Rectangle 4" width="128" height="128" transform="translate(512)" fill="#739552"/>
+    <rect id="Rectangle_6-8" data-name="Rectangle 6" width="128" height="128" transform="translate(256)" fill="#739552"/>
+    <rect id="Rectangle_8-8" data-name="Rectangle 8" width="128" height="128" fill="#739552"/>
+    <rect id="Rectangle_3-8" data-name="Rectangle 3" width="128" height="128" transform="translate(896)" fill="#ebecd0"/>
+    <rect id="Rectangle_5-8" data-name="Rectangle 5" width="128" height="128" transform="translate(640)" fill="#ebecd0"/>
+    <rect id="Rectangle_7-8" data-name="Rectangle 7" width="128" height="128" transform="translate(384)" fill="#ebecd0"/>
+    <rect id="Rectangle_9-8" data-name="Rectangle 9" width="128" height="128" transform="translate(128)" fill="#ebecd0"/>
+  </g>
+</svg>
